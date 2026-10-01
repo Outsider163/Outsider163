@@ -1,0 +1,20 @@
+<svg width="500" height="195" viewBox="0 0 500 195" xmlns="http://www.w3.org/2000/svg" role="img">
+<style>text{font-family:Segoe UI,Ubuntu,Sans-Serif}</style>
+<rect x="0.5" y="0.5" width="499" height="194" rx="4.5" fill="#141321" stroke="#e1e4e8" stroke-opacity="0.15"/>
+<text x="25" y="35" font-size="16" font-weight="600" fill="#fe428e">Outsider163&#8217;s GitHub Stats</text>
+<text x="25" y="68" font-size="13" fill="#fe428e">★</text>
+<text x="50" y="68" font-size="13" fill="#a9fef7">Total Stars Earned:</text>
+<text x="475" y="68" font-size="13" font-weight="600" fill="#a9fef7" text-anchor="end">5</text>
+<text x="25" y="94" font-size="13" fill="#fe428e">◷</text>
+<text x="50" y="94" font-size="13" fill="#a9fef7">Total Commits (all-time):</text>
+<text x="475" y="94" font-size="13" font-weight="600" fill="#a9fef7" text-anchor="end">64</text>
+<text x="25" y="120" font-size="13" fill="#fe428e">⇅</text>
+<text x="50" y="120" font-size="13" fill="#a9fef7">Total PRs:</text>
+<text x="475" y="120" font-size="13" font-weight="600" fill="#a9fef7" text-anchor="end">0</text>
+<text x="25" y="146" font-size="13" fill="#fe428e">◎</text>
+<text x="50" y="146" font-size="13" fill="#a9fef7">Total Issues:</text>
+<text x="475" y="146" font-size="13" font-weight="600" fill="#a9fef7" text-anchor="end">0</text>
+<text x="25" y="172" font-size="13" fill="#fe428e">☰</text>
+<text x="50" y="172" font-size="13" fill="#a9fef7">Public Repos:</text>
+<text x="475" y="172" font-size="13" font-weight="600" fill="#a9fef7" text-anchor="end">5</text>
+</svg>
